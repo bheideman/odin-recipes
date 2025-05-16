@@ -1,0 +1,55 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #d7cec7;
+    box-sizing: border-box;
+    color: #565656;
+}
+
+h1 {
+    text-align: center;
+    color: #76323f;
+}
+
+.nav {
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav a {
+    color: #76323f;
+}
+
+.navbox {
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
+
+.home {
+    text-decoration: none;
+    color: #c09f80;
+}
+
+p {
+    margin: 0 8px
+}
+
+.ingredients {
+    outline: 1px solid black;
+    display: inline-block;
+    margin: 0;
+    background-color: white;
+}
+
+.ingredients .item {
+    padding: 8px;
+}
+
+ol li {
+    padding-top: 8px;
+    margin: 0;
+}
